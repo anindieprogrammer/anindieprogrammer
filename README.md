@@ -1,4 +1,7 @@
-### Hi there 👋
+### I'm An Indie Programmer 🐱‍👤
+
+- 🔭 I’m currently working on Android and Web.
+- 🌱 I’m currently learning React and Node.
 
 <!--
 **anindieprogrammer/anindieprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
