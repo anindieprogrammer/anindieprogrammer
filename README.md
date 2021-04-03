@@ -2,6 +2,7 @@
 
 - 🔭 working on Android and Web.
 - 🌱 learning React and Node.
+- ✈  open to work on remote job opportunities.
 
 <!--
 **anindieprogrammer/anindieprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
