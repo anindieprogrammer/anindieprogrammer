@@ -1,7 +1,8 @@
-### I'm Shahrukh 🐱‍👤
+### I'm Shahrukhkhan Pathan 🐱‍👤
 
-- 🔭 working on Android and Web.
-- 🌱 learning React and Node.
+- 🔭 working on Web and Android.
+- 🌱 I’m currently learning UI/UX design.
+- 👯 I’m looking to collaborate on javascript open source libs.
 - ✈  open to work on remote job opportunities.
 
 <!--
@@ -10,8 +11,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
