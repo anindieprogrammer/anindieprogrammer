@@ -1,7 +1,7 @@
 ### I'm Shahrukhkhan Pathan 🐱‍👤
 
-- 🔭 working on Web development.
-- 🌱 currently learning blockchain.
+- 🔭 working on Web.
+- 🌱 learning blockchain.
 - 👯 looking to collaborate on javascript open source libs.
 - ✈  open to work on remote job opportunities.
 
