@@ -2,7 +2,7 @@
 
 - 🔭 working on Web.
 - 🌱 learning blockchain.
-- 👯 looking to collaborate on javascript open source libs.
+- 👯 looking to collaborate on open source projects.
 - ✈  open to work on remote job opportunities.
 
 <!--
